@@ -5,7 +5,7 @@ public class OrderingDemo {
      *  jmm Ordering have some hard to prove it
      *  we have four int value is 0
      *  we change the value a b is 1
-     *  whether thread T1 faster then T2 or T2 faster T1
+     *  whether thread T1 faster than T2 or T2 faster T1
      *  the x=1 y=0 or x=0  y=1
      *  but if the cpu have Instruction Reordering
      *  x=b

@@ -1,3 +1,5 @@
+package base;
+
 public class SpatialLocality {
 
     private static final int RUNS = 100;
